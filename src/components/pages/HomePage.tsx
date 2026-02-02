@@ -253,7 +253,7 @@ export default function HomePage() {
               className="bg-primary text-primary-foreground p-8 lg:p-16 flex flex-col justify-center relative overflow-hidden group"
             >
               <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-white/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-700" />
-              <h1 className="font-heading text-5xl lg:text-7xl xl:text-8xl uppercase leading-[0.85] tracking-tight z-10">
+              <h1 className="font-heading text-4xl lg:text-5xl xl:text-6xl uppercase leading-[0.85] tracking-tight z-10">
                 Dev<br/>Env<br/>Platform
               </h1>
               <div className="mt-8 flex items-center gap-4 text-gridline">
