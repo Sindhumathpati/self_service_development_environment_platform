@@ -36,17 +36,17 @@
 
 1. **Install dependencies**:
    ```bash
-   npm install
+   pnpm install
    ```
 
 2. **Set up environment variables**:
    ```bash
-   npm run env
+   pnpm run env
    ```
 
 3. **Start development server**:
    ```bash
-   npm run dev
+   pnpm run dev
    ```
 
 The development server will start and you can view your site at `http://localhost:4321`.
